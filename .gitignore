@@ -1,0 +1,5 @@
+config_file.php
+.DS_Store
+Thumbs.db
+*.env
+node_modules/
